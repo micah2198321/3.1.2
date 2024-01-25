@@ -1,0 +1,7 @@
+studs_in_class1 = 27
+studs_in_class2 = 31
+studs_in_class3 = 13
+sum_of_students = studs_in_class1 + studs_in_class2 + studs_in_class3
+
+average_student_count = int(sum_of_students / 3)
+print(average_student_count)
