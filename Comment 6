@@ -1,0 +1,5 @@
+student_count = int (21.7) 
+print(student_count) 
+
+introduction_question = "What is your name?" 
+print(introduction_question) 
