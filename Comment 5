@@ -1,0 +1,6 @@
+first_age = input("What is the age of person 1? ")
+second_age = input("What is the age of person 2?  ")
+
+difference = first_age - second_age
+
+print("Person 1 is", difference, "years older than person 2.")
